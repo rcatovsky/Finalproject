@@ -16,7 +16,7 @@
         <mxCell id="D7QebI_t6vijq0j76diw-5" parent="D7QebI_t6vijq0j76diw-3" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
           <mxGeometry height="8" width="160" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="D7QebI_t6vijq0j76diw-6" parent="D7QebI_t6vijq0j76diw-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+get_height&lt;div&gt;+get_width&lt;/div&gt;" vertex="1">
+        <mxCell id="D7QebI_t6vijq0j76diw-6" parent="D7QebI_t6vijq0j76diw-3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+get_height&lt;div&gt;+get_width&lt;/div&gt;&lt;div&gt;+getItemM&lt;/div&gt;&lt;div&gt;+getRowM&lt;/div&gt;&lt;div&gt;+getRowM_list&lt;/div&gt;&lt;div&gt;+setItemM&lt;/div&gt;&lt;div&gt;+setRowM&lt;/div&gt;&lt;div&gt;+setColumn&lt;/div&gt;&lt;div&gt;+getColumn&lt;/div&gt;" vertex="1">
           <mxGeometry height="242" width="160" y="88" as="geometry" />
         </mxCell>
       </root>
