@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 OPR/126.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="WazgxgRUeuEWS8ZMHXkO">
-    <mxGraphModel dx="747" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,17 @@
           <mxGeometry height="480" width="380" x="200" y="40" as="geometry" />
         </mxCell>
         <mxCell id="lPd6uEVXeJkPIX5wjGZ4-2" parent="lPd6uEVXeJkPIX5wjGZ4-1" style="swimlane;startSize=30;" value="Path" vertex="1">
-          <mxGeometry height="480" width="140" as="geometry" />
+          <mxGeometry height="480" width="140" as="geometry">
+            <mxRectangle height="480" width="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5LihI63WKBCmpTgjBM3g-1" parent="lPd6uEVXeJkPIX5wjGZ4-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=0;" value="C:\Users\reube\&lt;div&gt;OneDrive\Finalproject&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="40" y="200" as="geometry" />
         </mxCell>
         <mxCell id="lPd6uEVXeJkPIX5wjGZ4-3" parent="lPd6uEVXeJkPIX5wjGZ4-1" style="swimlane;startSize=30;" value="file name" vertex="1">
-          <mxGeometry height="480" width="120" x="140" as="geometry" />
+          <mxGeometry height="480" width="120" x="140" as="geometry">
+            <mxRectangle height="480" width="40" x="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5LihI63WKBCmpTgjBM3g-4" parent="lPd6uEVXeJkPIX5wjGZ4-3" style="whiteSpace=wrap;html=1;" value="Static_array" vertex="1">
           <mxGeometry height="90" width="120" y="30" as="geometry" />
@@ -32,7 +36,9 @@
           <mxGeometry height="90" width="120" y="390" as="geometry" />
         </mxCell>
         <mxCell id="lPd6uEVXeJkPIX5wjGZ4-4" parent="lPd6uEVXeJkPIX5wjGZ4-1" style="swimlane;startSize=30;" value="classes" vertex="1">
-          <mxGeometry height="480" width="120" x="260" as="geometry" />
+          <mxGeometry height="480" width="120" x="260" as="geometry">
+            <mxRectangle height="480" width="40" x="80" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5LihI63WKBCmpTgjBM3g-9" parent="lPd6uEVXeJkPIX5wjGZ4-4" style="whiteSpace=wrap;html=1;" value="Static_array" vertex="1">
           <mxGeometry height="90" width="120" y="30" as="geometry" />
