@@ -34,6 +34,21 @@
         <mxCell id="lPd6uEVXeJkPIX5wjGZ4-4" parent="lPd6uEVXeJkPIX5wjGZ4-1" style="swimlane;startSize=30;" value="classes" vertex="1">
           <mxGeometry height="480" width="120" x="260" as="geometry" />
         </mxCell>
+        <mxCell id="5LihI63WKBCmpTgjBM3g-9" parent="lPd6uEVXeJkPIX5wjGZ4-4" style="whiteSpace=wrap;html=1;" value="Static_array" vertex="1">
+          <mxGeometry height="90" width="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5LihI63WKBCmpTgjBM3g-10" parent="lPd6uEVXeJkPIX5wjGZ4-4" style="whiteSpace=wrap;html=1;" value="Matrix" vertex="1">
+          <mxGeometry height="90" width="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5LihI63WKBCmpTgjBM3g-11" parent="lPd6uEVXeJkPIX5wjGZ4-4" style="whiteSpace=wrap;html=1;" value="Hamming" vertex="1">
+          <mxGeometry height="90" width="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5LihI63WKBCmpTgjBM3g-12" parent="lPd6uEVXeJkPIX5wjGZ4-4" style="whiteSpace=wrap;html=1;" value="(completed various tests throughout the technical solution phase, to check that all classes work)" vertex="1">
+          <mxGeometry height="90" width="120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5LihI63WKBCmpTgjBM3g-13" parent="lPd6uEVXeJkPIX5wjGZ4-4" style="whiteSpace=wrap;html=1;" value="(function for UI and save to file(csv))" vertex="1">
+          <mxGeometry height="90" width="120" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
